@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Desde Git
 Lo realice desde el Github
+
+## Cambio desde VS code
+cambios subidos desde VS code
