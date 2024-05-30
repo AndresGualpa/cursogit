@@ -15,3 +15,5 @@ cambios subidos desde VS code
 ## Cambios desde mi repositorio local
 Estos son cambios desde mi repositorio local
 
+## Cambios desde repositorio Github
+Estos son cambios desde repositorio de github
