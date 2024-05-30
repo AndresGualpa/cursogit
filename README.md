@@ -11,3 +11,6 @@ Lo realice desde el Github
 
 ## Cambio desde VS code
 cambios subidos desde VS code
+
+## Cambios desde repositorio Github
+Estos son cambios desde repositorio de github
