@@ -11,3 +11,7 @@ Lo realice desde el Github
 
 ## Cambio desde VS code
 cambios subidos desde VS code
+
+## Cambios desde mi repositorio local
+Estos son cambios desde mi repositorio local
+
